@@ -3843,10 +3843,10 @@ get-value@^2.0.3, get-value@^2.0.6:
   resolved "https://registry.yarnpkg.com/get-value/-/get-value-2.0.6.tgz#dc15ca1c672387ca76bd37ac0a395ba2042a2c28"
   integrity sha1-3BXKHGcjh8p2vTesCjlbogQqLCg=
 
-gh-polyglot@^2.3.2:
-  version "2.3.2"
-  resolved "https://registry.yarnpkg.com/gh-polyglot/-/gh-polyglot-2.3.2.tgz#195d4e4aca221e00b3bfba37cd08cb37df4cc4d5"
-  integrity sha512-qRRGx/ejCea+FW/0iOha/BzD1OecQaTFRLj6SRJy+9gXXTaWd92Hac6WWPgHROdRXVAIbEAV0z9oslJeGPkbjQ==
+gh-polyglot@^2.3.3:
+  version "2.3.3"
+  resolved "https://registry.yarnpkg.com/gh-polyglot/-/gh-polyglot-2.3.3.tgz#73e2a60627725ef53835ba4a0c350f19d6489838"
+  integrity sha512-3BVYo/fPMV4iu/HSDhxqaJcM20uoRwjIxEn35iVy3pJ/+LzCNP6po0ayVCibNkVCaPKZf+fnWZEHdcNPNql/fw==
   dependencies:
     cli-pie "^2.0.0"
     gh.js "^2.0.0"
